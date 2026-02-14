@@ -123,4 +123,7 @@ Teman is 100% compliant with the **Malaysian Personal Data Protection Act 2010 (
 * **Ng Hong Jon** - Team Leader
 * **Tan Sze Yung** - Visual Concept Designer
 * **Lim Xuan Ning** - Video Editor
+
+## Link of Slides 
+https://www.canva.com/design/DAG2YveCdtg/3JOTaxZ_iGYkdGOUA_7AbQ/edit?utm_content=DAG2YveCdtg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton 
 *Developed for the UMPSA x Huawei AppGallery Mobile App Competition (UXHMAC) 2025.*
