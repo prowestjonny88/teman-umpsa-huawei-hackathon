@@ -16,15 +16,15 @@ Teman is a revolutionary mental health platform designed specifically for the Ma
 
 ## 📖 Table of Contents
 
-* [The Problem](# 🚨 The Problem: "The Three Pillars of Paralysis")
-* [Our Solution](# 💡 Our Solution)
-* [Key Features](# ✨ Key Features)
-* [Technical Implementation (Huawei HMS)](# 🛠 Technical Implementation (Huawei HMS))
-* [System Architecture](# 🏗 System Architecture) 
-* [SDG Alignment](# 🌍 SDG Alignment)
-* [Data Privacy & PDPA](# 🔒 Data Privacy & PDPA)
-* [Future Roadmap](# 🚀 Future Roadmap)
-* [Slides](# Link of Slides)
+- [The Problem](#-the-problem)
+- [Our Solution](#-our-solution)
+- [Key Features](#-key-features)
+- [Technical Implementation (Huawei HMS)](#-technical-implementation-huawei-hms)
+- [System Architecture](#-system-architecture)
+- [SDG Alignment](#-sdg-alignment)
+- [Data Privacy & PDPA](#-data-privacy--pdpa)
+- [Future Roadmap](#-future-roadmap)
+- [Slides](#-link-of-slides)
 
 ---
 
